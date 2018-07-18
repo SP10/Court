@@ -1,0 +1,1 @@
+((({CAUSE.EXECUTION}.CAUSE_TYPE.@ID in (213,18007)) and (EXEcutive_document.code = '2')) and (((EXECUTION_DATE >= '?Дата з') and (EXECUTION_DATE <= '?Дата по')) or ((EXECUTIVE_DOCUMENT_GIVING_DATE >= '?Дата з') and (EXECUTIVE_DOCUMENT_GIVING_DATE <= '?Дата по'))))
